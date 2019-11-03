@@ -1,0 +1,20 @@
+# Project information
+site_name: 'Infraprints'
+site_description: 'Temporary website for Infraprints.'
+site_author: 'Jonathan Beverly'
+site_dir: public
+docs_dir: src
+
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'white'
+    accent: 'indigo'
+
+extra:
+  search:
+    language: 'en'
+  social:
+    - type: 'github'
+      link: 'https://github.com/infraprints/website'
