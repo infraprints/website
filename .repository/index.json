@@ -1,0 +1,14 @@
+{
+  "slug": "website",
+  "namespace": "infraprints",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "website"
+  ],
+  "languages": []
+}
